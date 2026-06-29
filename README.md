@@ -5,7 +5,9 @@ A complete guide to the 8 Domains in Cyber Security. This repository covers Secu
 
 ![Architecture](https://img.shields.io/badge/Architecture-Design-blue?logo=archlinux)
 ![Components](https://img.shields.io/badge/Components-Modular-green?logo=blueprint)
+
 📦 Core Programming Languages
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
