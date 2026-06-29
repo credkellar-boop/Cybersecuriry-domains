@@ -1,0 +1,3 @@
+ID,Risk Description,Likelihood(1-5),Impact(1-5),Risk Score,Mitigation Strategy
+R001,Unpatched Server,4,4,16,Immediate Patching
+R002,Phishing Attempt,3,2,6,User Training
